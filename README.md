@@ -1,11 +1,13 @@
 # Independent Data Science Projects
 
-Welcome to my independent data science portfolio. Below is a collection of projects exploring real-world problems through data analysis, data visualisation, statistics, machine learning and geospatial analysis.
+Welcome everyone! This is a collection of my independent data science projects, where I use data to explore questions I find interesting about the world around me.
 
-These projects reflect my growing interest in applying data science to international development, inequality, climate vulnerability and urban development.
+Each project gives me an opportunity to practise different parts of the data science process. I am using these projects to build my skills and learn how to turn a question into something I can investigate with data.
 
 ---
 
 ## Projects
 
-Projects will be added as they are completed.
+In Progress: Life Expectancy, Economic Development & Climate Vulnerability
+
+Exploring the relationship between life expectancy, GDP (PPP) and climate vulnerability using World Bank data.
