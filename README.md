@@ -8,6 +8,5 @@ Each project gives me an opportunity to practise different parts of the data sci
 
 ## Projects
 
-In Progress: Life Expectancy, Economic Development & Climate Vulnerability
-
+In Progress: [Life Expectancy, Economic Development & Climate Vulnerability](https://github.com/ambriapearce/life_expectancy_climate_risk)  
 Exploring the relationship between life expectancy, GDP (PPP) and climate vulnerability using World Bank data.
